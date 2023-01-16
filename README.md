@@ -7,4 +7,4 @@ I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and
 * **Languages**:
 ![Python](https://img.shields.io/badge/Python-ffe052?style=flat&logo=python)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![Python2](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Shell/Bash](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)

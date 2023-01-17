@@ -2,6 +2,11 @@
 
 I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and Biostatistics, but I also love Data Science in general and Machine Learning.
 
+🤝 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raulminan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rmincam)
+
 #### Technologies I use:
 
 * **Languages**:

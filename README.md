@@ -2,7 +2,7 @@
 
 I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and Biostatistics, but I also love Data Science in general and Machine Learning.
 
-### Technologies I use:
+#### Technologies I use:
 
 * **Languages**:
 ![Python](https://img.shields.io/badge/Python-ffe052?style=flat&logo=python)
@@ -22,3 +22,13 @@ I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-004579?style=flat&logo=linux&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode)
+
+#### 🌱 I’m currently learning ...
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust)
+![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker)
+
+#### ⚡ I want to learn ...
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-purple?style=flat&logo=julia&logoColor=white)
+![nextflow](https://img.shields.io/badge/nextflow-00ADD8?style=flat&logo=nextflow&logoColor=white)
+![snakemake](https://img.shields.io/badge/snakemake-00ADD8?style=flat&logo=snakemake&logoColor=white)

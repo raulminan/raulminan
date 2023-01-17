@@ -10,8 +10,11 @@ I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and
 ![Shell/Bash](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=flat&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-* **Frameworks**:
+* **Machine Learning**:
+![caret]((https://img.shields.io/badge/caret-%23F7931E.svg?style=flat&logo=caret&logoColor=white))
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![xgb-boost](https://img.shields.io/badge/xgboost-%23F7931E.svg?style=flat&logo=xgboost&logoColor=white)
+![liightgbm](https://img.shields.io/badge/lightgbm-%23F7931E.svg?style=flat&logo=lightgbm&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)

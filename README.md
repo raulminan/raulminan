@@ -20,3 +20,4 @@ I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and
 * **Misc**:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-white?style=flat&logo=linux))

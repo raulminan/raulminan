@@ -11,10 +11,10 @@ I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
 * **Machine Learning**:
-![caret]((https://img.shields.io/badge/caret-%23F7931E.svg?style=flat&logo=caret&logoColor=white))
+![caret](https://img.shields.io/badge/caret-%23F7931E.svg?style=flat&logo=lightgbm&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![xgb-boost](https://img.shields.io/badge/xgboost-%23F7931E.svg?style=flat&logo=xgboost&logoColor=white)
-![liightgbm](https://img.shields.io/badge/lightgbm-%23F7931E.svg?style=flat&logo=lightgbm&logoColor=white)
+![lightgbm](https://img.shields.io/badge/lightgbm-%23F7931E.svg?style=flat&logo=lightgbm&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -23,7 +23,7 @@ I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and
 * **Misc**:
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?&style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-004579?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode)
 
 #### 🌱 I’m currently learning ...

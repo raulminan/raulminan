@@ -42,5 +42,3 @@ I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and
 ![snakemake](https://img.shields.io/badge/Snakemake-002221?style=flat&logo=Snakemake&logoColor=white)
 
 ---
-
-[![raulminan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raulminan&countprivate=true)](https://github.com/raulminan/github-readme-stats)

@@ -33,5 +33,5 @@ I'm a Biotechnologist currently pursuing a Master's degree in Bioinformatics and
 #### ⚡ I want to learn ...
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Julia](https://img.shields.io/badge/Julia-purple?style=flat&logo=julia&logoColor=white)
-![nextflow](https://img.shields.io/badge/nextflow-00ADD8?style=flat&logo=Nextflow&logoColor=white)
-![snakemake](https://img.shields.io/badge/Snakemake-00ADD8?style=flat&logo=Snakemake&logoColor=white)
+![nextflow](https://img.shields.io/badge/nextflow-27AE60?style=flat&logo=Nextflow&logoColor=white)
+![snakemake](https://img.shields.io/badge/Snakemake-002221?style=flat&logo=Snakemake&logoColor=white)
